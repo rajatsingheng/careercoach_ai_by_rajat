@@ -8,6 +8,7 @@ Welcome to **AI Mock Interview**, an intelligent system designed to simulate rea
 - **Speech Recognition** 🎙️: Analyze tone, clarity, and confidence in spoken answers.
 - **Customizable Interviews** 🛠️: Choose difficulty levels and specific industries.
 - **Performance Reports** 📊: Get detailed analytics and suggestions for improvement.
+- ![image alt](https://github.com/rajatsingheng/careercoach_ai_by_rajat/blob/e1d8dd3bf6017ef724870f5281995cb8cb01d806/Screenshot%202025-02-21%20075018.png)
 
 ## Installation 🛠️
 ```sh
