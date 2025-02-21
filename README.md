@@ -1,7 +1,7 @@
 # AI Mock Interview 🤖🎤
 
 Welcome to **AI Mock Interview**, an intelligent system designed to simulate real-world job interviews using AI. This project helps job seekers practice and improve their interview skills with AI-driven feedback and analysis. 🚀
-![image alt] (https://github.com/rajatsingheng/careercoach_ai_by_rajat/blob/6e7b2a0709f9b6dfce9b7b4a385390f9e0ff5a38/Screenshot%202025-02-21%20074933.png)
+![image alt](https://github.com/rajatsingheng/careercoach_ai_by_rajat/blob/6e7b2a0709f9b6dfce9b7b4a385390f9e0ff5a38/Screenshot%202025-02-21%20074933.png)
 ## Features ✨
 - **AI-Powered Questions** 🎯: Dynamic and adaptive interview questions based on job roles.
 - **Real-time Feedback** 📝: Instant feedback on responses with AI-generated insights.
